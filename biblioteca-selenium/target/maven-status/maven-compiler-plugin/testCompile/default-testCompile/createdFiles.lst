@@ -1,0 +1,7 @@
+cl\kibernumacademy\biblioteca\pages\LoginPage.class
+cl\kibernumacademy\biblioteca\RunCucumberTest.class
+cl\kibernumacademy\biblioteca\pages\ClinicalRecord.class
+cl\kibernumacademy\biblioteca\hooks\DriverHolder.class
+cl\kibernumacademy\biblioteca\hooks\Hooks.class
+cl\kibernumacademy\biblioteca\steps\ClinicalRecordSteps.class
+cl\kibernumacademy\biblioteca\steps\LoginSteps.class

@@ -1,0 +1,5 @@
+# Created at 2025-09-04T23:21:51.480
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Documentos\Curso testing\Modulo 5\Evaluacion Moodular\actividadModular5\actividadModular5\biblioteca-selenium\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
